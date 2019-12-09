@@ -1,0 +1,108 @@
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.xml
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\de\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\es\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\fr\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\hu\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\it\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ja\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\pt\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ru\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\sk\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\sv\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\tr\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-cn\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-tw\ZedGraph.resources.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Form1.resources
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Properties.Resources.resources
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.exe
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.dll
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.pdb
+c:\documents and settings\admin\мои документы\visual studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.xml
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.dll
+C:\Documents and Settings\Admin\Мои документы\Visual Studio 2010\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.xml
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.exe
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.pdb
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.exe
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.pdb
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.xml
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.xml
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.xml
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csprojResolveAssemblyReference.cache
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Form1.resources
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Properties.Resources.resources
+C:\Users\Пашок\Documents\Visual Studio 2012\Projects\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csproj.GenerateResource.Cache
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.exe
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.pdb
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.exe
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.pdb
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.xml
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.xml
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.xml
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csprojResolveAssemblyReference.cache
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Form1.resources
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Properties.Resources.resources
+C:\Users\Вероника\Downloads\Sound_Spectrum\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csproj.GenerateResource.Cache
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.exe
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\Sound_Spectrum.pdb
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.pdb
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\MathNet.Numerics.xml
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\NAudio.xml
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\ZedGraph.xml
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Form1.resources
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.Properties.Resources.resources
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csproj.GenerateResource.cache
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.csproj.CopyComplete
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.exe
+C:\Users\Kate\Desktop\Sound_Spectrum\Sound_Spectrum\obj\x86\Debug\Sound_Spectrum.pdb
